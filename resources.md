@@ -1,12 +1,12 @@
 
-###**Misc.**
+### **Misc.**
 - https://cdn.discordapp.com/attachments/661582935081877540/661679632017522718/image0.png
 - https://adsecurity.org/?p=3700
 
-###**C2**
+### **C2**
 - https://github.com/BC-SECURITY/Empire
 
-###**Windows / Active Directory:  Enumeration & Priv Esc. & Persistence**  
+### **Windows / Active Directory:  Enumeration & Priv Esc. & Persistence**  
 - https://github.com/itm4n/FullPowers
 - https://github.com/cyberark/ACLight
 - https://cube0x0.github.io/Pocing-Beyond-DA/ 
@@ -18,11 +18,11 @@
 - https://github.com/buftas/Active-Directory-Exploitation-Cheat-Sheet
 - https://blog.redforce.io/windows-authentication-and-attacks-part-1-ntlm/
 
-###**Data Exfil**  
+### **Data Exfil**  
 
 - https://github.com/GhostPack/Lockless
 
-###**AV Evasion**  
+### **AV Evasion**  
 - https://github.com/mgeeky/Stracciatella
 - https://github.com/govolution/avet
 - https://github.com/loadenmb/tvasion
@@ -30,9 +30,9 @@
 - https://github.com/thelinuxchoice/catchyou/blob/master/README.md
 - https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp
 
-###**Reversing**
+### **Reversing**
 - https://guyinatuxedo.github.io/
 
-###**Cheatsheets**
+### **Cheatsheets**
 - https://github.com/OlivierLaflamme/Cheatsheet-God
 - https://github.com/buftas/Active-Directory-Exploitation-Cheat-Sheet
